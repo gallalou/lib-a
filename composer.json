@@ -1,0 +1,20 @@
+{
+    "name": "gallalou/lib-A",
+    "description": "A simple hello world composer package for lib A",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gallalou Sofiene",
+            "email": "gallalou.sofiene@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"gallalou\\lib-A\\": "src/"}
+    },
+    "require": {
+      "gallalou/lib-B": "1.*"
+    }
+}
+
