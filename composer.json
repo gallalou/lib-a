@@ -1,5 +1,5 @@
 {
-    "name": "gallalou/lib-A",
+    "name": "gallalou/lib-a",
     "description": "A simple hello world composer package for lib A",
     "type": "library",
     "license": "MIT",
@@ -14,7 +14,7 @@
         "psr-4": {"gallalou\\lib-A\\": "src/"}
     },
     "require": {
-      "gallalou/lib-B": "1.*"
+      "gallalou/lib-b": "1.*"
     }
 }
 
