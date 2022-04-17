@@ -1,6 +1,6 @@
 {
     "name": "gallalou/lib-a",
-    "description": "A simple hello world composer package for lib A",
+    "description": "A simple hello world composer package for lib A - DEV",
     "type": "library",
     "license": "MIT",
     "authors": [
